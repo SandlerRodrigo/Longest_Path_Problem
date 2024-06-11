@@ -21,8 +21,8 @@ graph *init_graph(char *filename) {
   add_edges(g);
   end = clock();
   cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
-//   printf("\nIt took me %f seconds to add edges to this graph.\n\n",
-//          cpu_time_used);
+  printf("\nIt took me %f seconds to add edges to this graph.\n\n",
+         cpu_time_used);
 
   return g;
 }
@@ -167,8 +167,8 @@ int longest_nesting(graph *g) {
 
   end = clock();
   cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
-//   printf("It took me %f seconds to find the longest path in this graph.\n",
-//          cpu_time_used);
+  printf("It took me %f seconds to find the longest path in this graph.\n",
+         cpu_time_used);
 
   free(maxDepth);
   return max;
