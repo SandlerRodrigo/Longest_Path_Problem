@@ -8,6 +8,9 @@
  * @brief Header file for managing a graph of boxes, including functions for
  * creating, manipulating, and destroying the graph, as well as sorting and
  * comparing boxes.
+ * @authors
+ * Alex Fraga       alex.gabriel@edu.pucrs.br
+ * Rodrigo Sandler  r.sandler@edu.pucrs.br
  */
 
 /**

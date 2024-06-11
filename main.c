@@ -24,8 +24,8 @@ int main(int argc, char *argv[]) {
   graph *g = init_graph(argv[1]);
 
   // printf("\nLongest nesting: %d\n\n", longest_nesting(g));
-  // print_graph(g);
-  print_dot(g);
+  print_graph(g);
+  // print_dot(g);
 
   end = clock();
   cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
