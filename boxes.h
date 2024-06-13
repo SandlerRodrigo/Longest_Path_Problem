@@ -17,9 +17,9 @@
  * @brief A structure representing a box with three dimensions.
  */
 typedef struct box {
-  short lowest;  ///< The lowest dimension of the box.
-  short middle;  ///< The middle dimension of the box.
-  short biggest; ///< The biggest dimension of the box.
+  short lowest;  ///< The lowest measure of the box.
+  short middle;  ///< The middle measure of the box.
+  short biggest; ///< The biggest measure of the box.
 } box;
 
 /**
