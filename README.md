@@ -47,7 +47,7 @@ The command `make vis` is specifically configured to visualize the graph describ
 ## Output Image
 The default `make vis` command should output this image:
 <br><br>
-![Visualization Output](./assets/assets.png)
+![Visualization Output](./Code/assets/assets.png)
 
 ## Conclusion
 If you have any questions or need further assistance, please contact [alex.gabriel@edu.pucrs.br](mailto:alex.gabriel@edu.pucrs.br) or [r.sandler@edu.pucrs.br](mailto:r.sandler@edu.pucrs.br).
