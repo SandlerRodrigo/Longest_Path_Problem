@@ -2,15 +2,15 @@
 
 ## Table of Contents
 - [Instructions to Run the Code](#instructions-to-run-the-code)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Opening the Terminal](#opening-the-terminal)
-  - [Compiling the Code](#compiling-the-code)
-  - [Running Test Cases](#running-test-cases)
-  - [Cleaning Up](#cleaning-up)
-  - [Visualizing the Assignments](#visualizing-the-assignments)
-  - [Output Image](#output-image)
-  - [Conclusion](#conclusion)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Opening the Terminal](#opening-the-terminal)
+- [Compiling the Code](#compiling-the-code)
+- [Running Test Cases](#running-test-cases)
+- [Cleaning Up](#cleaning-up)
+- [Visualizing the Assignments](#visualizing-the-assignments)
+- [Output Image](#output-image)
+- [Conclusion](#conclusion)
 
 ## Introduction
 You are not required to modify anything in the program files.  
