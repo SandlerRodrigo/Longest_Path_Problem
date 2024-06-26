@@ -1,0 +1,14 @@
+Longest Path arquivo enunciado.txt: 4
+    execution time: 0.000067 seconds
+
+Longest Path arquivo boxes10K.txt: 76
+    execution time: 0.794681 seconds
+
+Longest Path arquivo boxes20Ktxt: 95
+    execution time: 3.186162 seconds
+
+Longest Path arquivo boxes50K.txt: 132
+    execution time: 23.819510 seconds
+
+Longest Path arquivo boxes100K.txt: 168
+    execution time: 95.120862 seconds

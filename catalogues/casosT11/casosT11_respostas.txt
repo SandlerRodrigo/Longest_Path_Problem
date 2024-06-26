@@ -1,0 +1,31 @@
+casosT11/caso00010.txt: 3
+    runtime: 0.000175 seconds
+casosT11/caso00020.txt: 5
+    runtime: 0.000188 seconds
+casosT11/caso00050.txt: 8
+    runtime: 0.000420 seconds
+casosT11/caso00100.txt: 12
+    runtime: 0.000689 seconds
+casosT11/caso00200.txt: 17
+    runtime: 0.000672 seconds
+casosT11/caso00300.txt: 20
+    runtime: 0.002120 seconds
+casosT11/caso00500.txt: 24
+    runtime: 0.007418 seconds
+casosT11/caso01000.txt: 32
+    runtime: 0.023434 seconds
+casosT11/caso02000.txt: 42
+    runtime: 0.063948 seconds
+casosT11/caso05000.txt: 59
+    runtime: 0.233776 seconds
+casosT11/caso10000.txt: 76
+    runtime: 0.819919 seconds
+
+Longest Path arquivo boxes20Ktxt: 95
+    execution time: 3.186162 seconds
+
+Longest Path arquivo boxes50K.txt: 132
+    execution time: 23.819510 seconds
+
+Longest Path arquivo boxes100K.txt: 168
+    execution time: 95.120862 seconds
