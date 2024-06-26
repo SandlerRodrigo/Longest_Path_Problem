@@ -15,12 +15,12 @@ graph *init_graph(char *filename) {
   }
   g->size = count;
 
-  clock_t start, end;
-  double cpu_time_used;
-  start = clock();
+  // clock_t start, end;
+  // double cpu_time_used;
+  // start = clock();
   add_edges(g);
-  end = clock();
-  cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
+  // end = clock();
+  // cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
   // printf("\nIt took me %f seconds to add edges to this graph.\n\n",
   //        cpu_time_used);
 
@@ -139,9 +139,9 @@ void sort_boxes_by_volume(vertex *vertices, int size) {
 }
 
 int longest_nesting(graph *g) {
-  clock_t start, end;
-  double cpu_time_used;
-  start = clock();
+  // clock_t start, end;
+  // double cpu_time_used;
+  // start = clock();
 
   int *maxDepth = malloc(g->size * sizeof(int));
   for (int i = 0; i < g->size; i++) {
@@ -165,8 +165,8 @@ int longest_nesting(graph *g) {
     }
   }
 
-  end = clock();
-  cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
+  // end = clock();
+  // cpu_time_used = ((double)(end - start)) / CLOCKS_PER_SEC;
   // printf("It took me %f seconds to find the longest path in this graph.\n",
   //        cpu_time_used);
 
